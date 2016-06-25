@@ -1,7 +1,7 @@
 # BigINT-C
 Handles Integer overflows and negative modulus errors in C.
 
-**@author - DIWAKAR BHARDWAJ, SURAJ PRAKASH CHOUBEY, ADITYA KUMAR**
+**@author - DIWAKAR BHARDWAJ, [SURAJ PRAKASH CHOUBEY](https://github.com/surajch77), ADITYA KUMAR**
 
 ###Features in arithematic.h
 
